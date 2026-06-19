@@ -1,0 +1,55 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Network Intelligence//Sample Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+
+BEGIN:VEVENT
+UID:meeting-001@tribecasoftech.com
+DTSTART:20260408T100000Z
+DTEND:20260408T110000Z
+SUMMARY:Intro Call - FinTech BD Strategy
+ORGANIZER;CN=Paras Mehta:mailto:paras@tribecasoftech.com
+ATTENDEE;CN=Paras Mehta;ROLE=CHAIR:mailto:paras@tribecasoftech.com
+ATTENDEE;CN=Natasha Ivanova;ROLE=REQ-PARTICIPANT:mailto:n.ivanova@tpgcapital.com
+ATTENDEE;CN=George Adeyemi;ROLE=REQ-PARTICIPANT:mailto:g.adeyemi@silverlakegroup.com
+DESCRIPTION:Intro call to discuss BD intelligence use cases for PE distribution teams.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:meeting-002@tribecasoftech.com
+DTSTART:20260410T140000Z
+DTEND:20260410T150000Z
+SUMMARY:Coffee - LP Relations Discussion
+ORGANIZER;CN=Rajesh Nayak:mailto:rajesh@tribecasoftech.com
+ATTENDEE;CN=Rajesh Nayak;ROLE=CHAIR:mailto:rajesh@tribecasoftech.com
+ATTENDEE;CN=Tom Whitfield;ROLE=REQ-PARTICIPANT:mailto:t.whitfield@bainCapital.com
+ATTENDEE;CN=Priya Subramaniam;ROLE=REQ-PARTICIPANT:mailto:p.subramaniam@hellmanfriedman.com
+DESCRIPTION:Casual coffee to explore warm intro paths for upcoming fundraise.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:meeting-003@tribecasoftech.com
+DTSTART:20260414T090000Z
+DTEND:20260414T093000Z
+SUMMARY:Quick Sync - Platform Demo
+ORGANIZER;CN=Aman Mahapatra:mailto:aman@tribecasoftech.com
+ATTENDEE;CN=Aman Mahapatra;ROLE=CHAIR:mailto:aman@tribecasoftech.com
+ATTENDEE;CN=Carlos Vega;ROLE=REQ-PARTICIPANT:mailto:c.vega@viewpointcapital.com
+ATTENDEE;CN=Fiona Drummond;ROLE=REQ-PARTICIPANT:mailto:f.drummond@concordia.com
+DESCRIPTION:30-min demo of network intelligence platform for BD use case.
+END:VEVENT
+
+BEGIN:VEVENT
+UID:meeting-004@tribecasoftech.com
+DTSTART:20260416T150000Z
+DTEND:20260416T160000Z
+SUMMARY:Follow-up - Deal Sourcing Workflow
+ORGANIZER;CN=Paras Mehta:mailto:paras@tribecasoftech.com
+ATTENDEE;CN=Paras Mehta;ROLE=CHAIR:mailto:paras@tribecasoftech.com
+ATTENDEE;CN=Natasha Ivanova;ROLE=REQ-PARTICIPANT:mailto:n.ivanova@tpgcapital.com
+ATTENDEE;CN=Leon Brauer;ROLE=REQ-PARTICIPANT:mailto:l.brauer@advcap.com
+DESCRIPTION:Follow-up on deal sourcing workflow integration after intro call.
+END:VEVENT
+
+END:VCALENDAR

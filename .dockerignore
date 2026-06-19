@@ -1,0 +1,13 @@
+.git
+.github
+**/.git
+**/node_modules
+**/.next
+**/__pycache__
+**/.venv
+**/.env
+**/.env.*
+!.env.example
+data/
+*.md
+.DS_Store

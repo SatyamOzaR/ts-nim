@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//TSI//Network Intelligence//EN
+
+BEGIN:VEVENT
+DTSTART:20260310T140000Z
+DTEND:20260310T150000Z
+SUMMARY:BlackRock Portfolio Review - Victoria Adams
+DESCRIPTION:Quarterly portfolio review with Victoria Adams (Managing Director, BlackRock). Discussed allocation shifts in private credit and co-investment pipeline. She mentioned Thomas Anderson at JP Morgan as a potential LP.
+ATTENDEE:CN=Xoyo;MAILTO:xoyo@tsi.com
+ATTENDEE:CN=Victoria Adams;MAILTO:victoria.adams@blackrock.com
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260318T110000Z
+DTEND:20260318T120000Z
+SUMMARY:Sarah Chen (Goldman Sachs) - Tech Infrastructure Discussion
+DESCRIPTION:Call with Sarah Chen, VP Technology at Goldman Sachs. Discussed fintech infrastructure investments. Sarah introduced us to Michael Forbes at Citadel who runs a similar mandate.
+ATTENDEE:CN=Xoyo;MAILTO:xoyo@tsi.com
+ATTENDEE:CN=Sarah Chen;MAILTO:sarah.chen@gs.com
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260325T150000Z
+DTEND:20260325T160000Z
+SUMMARY:Thomas Anderson (JP Morgan) - LP Intro
+DESCRIPTION:Intro call with Thomas Anderson, Managing Director at JP Morgan. Referred by Victoria Adams. Great conversation on secondary market opportunities. He wants to see our deck.
+ATTENDEE:CN=Xoyo;MAILTO:xoyo@tsi.com
+ATTENDEE:CN=Thomas Anderson;MAILTO:thomas.anderson@jpmorgan.com
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260401T130000Z
+DTEND:20260401T140000Z
+SUMMARY:Sophie Laurent (Barclays) - Structured Products Intro
+DESCRIPTION:Sophie Laurent, Director of Structured Credit at Barclays joined James Mitchell's intro call. Strong fit for the CLO structuring project.
+ATTENDEE:CN=Xoyo;MAILTO:xoyo@tsi.com
+ATTENDEE:CN=Sophie Laurent;MAILTO:sophie.laurent@barclays.com
+ATTENDEE:CN=James Mitchell;MAILTO:james.mitchell@barclays.com
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART:20260408T090000Z
+DTEND:20260408T093000Z
+SUMMARY:Robert Zhang (Goldman Sachs) - Credit Markets Call
+DESCRIPTION:Robert Zhang, Managing Director at Goldman Sachs reached out about our credit mandate. Discussed deal structure and financing options.
+ATTENDEE:CN=Xoyo;MAILTO:xoyo@tsi.com
+ATTENDEE:CN=Robert Zhang;MAILTO:robert.zhang@gs.com
+END:VEVENT
+
+END:VCALENDAR

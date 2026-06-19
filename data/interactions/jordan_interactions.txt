@@ -1,0 +1,51 @@
+Interaction Log — Jordan Lee
+==============================
+
+Contact: Raj Patel — BlackRock, Director of Quantitative Research
+Interaction date: 2026-01-15
+Type: email
+Notes: Raj reached out about our factor-based screening approach. He's building
+a new allocation model for BlackRock's PE fund-of-funds and wants to benchmark.
+We agreed to share methodology. Follow-up call scheduled for February.
+
+Contact: Raj Patel — BlackRock
+Interaction date: 2026-02-12
+Type: call
+Notes: Deep-dive on quant screening. Raj introduced us to his colleague Claire Dubois
+at Citadel who runs a similar model.
+
+Contact: Claire Dubois — Citadel, Quantitative Portfolio Manager
+Interaction date: 2026-02-20
+Type: email
+Notes: Initial outreach after Raj's intro. Claire is running Citadel's factor
+portfolio models and there is a strong overlap with our approach.
+
+Contact: Claire Dubois — Citadel
+Interaction date: 2026-03-05
+Type: meeting
+Notes: Full session with Claire's team. Covered risk factor methodology.
+She may be open to a formal partnership for data sharing.
+
+Contact: Maya Gupta — Barclays, VP Structured Credit
+Interaction date: 2026-03-14
+Type: email
+Notes: Maya introduced herself after the Barclays conference. She covers structured
+credit and is interested in our secondary mandate. Referred by Ahmed Hassan.
+
+Contact: Sam Butler — Goldman Sachs, VP
+Interaction date: 2026-03-22
+Type: call
+Notes: Sam reached out about a Goldman Sachs co-investment mandate.
+He works closely with Robert Zhang and wants to explore a deal together.
+
+Contact: Hannah Scott — Two Sigma, Quantitative Researcher
+Interaction date: 2026-04-01
+Type: email
+Notes: Hannah reached out after seeing our whitepaper on alternative data signals.
+She runs the equity factor models at Two Sigma. Strong fit for potential research collab.
+
+Contact: Robert Zhang — Goldman Sachs, Managing Director
+Interaction date: 2026-04-10
+Type: call
+Notes: Robert runs Goldman's credit desk and is evaluating co-investment partners.
+Second call with him — he wants term sheets for 2 live deals.
